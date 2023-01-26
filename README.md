@@ -1,5 +1,5 @@
 # Data-Visualization-Using-Matplotlib
-# This is the repository to explain how to use the matplotlib library by using python
+# This is the repository to explain how to use the matplotlib library by using python 
 for data Visualisation.
 We are going to learn all about
 1. Line Plot
